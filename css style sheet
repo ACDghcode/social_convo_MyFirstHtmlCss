@@ -1,0 +1,8 @@
+
+body {
+	font-family: arial;
+	background-color: rgb(185,179,175);}
+	h1 {font-size:185%; color: rgb(18,129,10);}
+	h2, h3 {
+	color: rgb(18,129,10);}	
+		
